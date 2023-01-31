@@ -7,31 +7,36 @@ My name is Nguyen Vo (Stephen). I am a junior BSc student majoring in Software E
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenSWE&layout=compact&custom_title=Languages%20📚&card_width=750&hide=css,scss,less,handlebars)](https://github.com/NguyenSWE/NguyenSWE)
 
 <a href="https://github.com/NguyenSWE/BookBook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=BookBook&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=BookBook&theme=radical" />
 </a>
 <a href="https://github.com/NguyenSWE/IN4-COVID19">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=IN4-COVID19&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=IN4-COVID19&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/NguyenSWE/MediaPlayer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=MediaPlayer&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=MediaPlayer&theme=rose_pine" />
 </a>
 
 <a href="https://github.com/NguyenSWE/AI-Fundamentals-Lab1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=AI-Fundamentals-Lab1&theme=solarized-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=AI-Fundamentals-Lab1&theme=highcontrast " />
 </a>
 <a href="https://github.com/NguyenSWE/Money-Heist">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=Money-Heist&theme=blue-green" />
 </a>
 <a href="https://github.com/NguyenSWE/ZuaTiengViet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=ZuaTiengViet&theme=codeSTACKr" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=ZuaTiengViet&theme=gotham" />
 </a>
 <a href="https://github.com/NguyenSWE/SimpleShop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=SimpleShop&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=SimpleShop&theme=github_dark" />
 </a>
 <a href="https://github.com/NguyenSWE/Leetcode-300BaiCodeThieuNhi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=Leetcode-300BaiCodeThieuNhi&theme=ocean_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=Leetcode-300BaiCodeThieuNhi&theme=dark" />
 </a>
+
 ### 🙋‍♂️ Reach me
 
-[![Linkedin](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/80px-LinkedIn_Logo_2013.svg.png)](https://www.linkedin.com/in/nguyenvht/)  or [![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GitHub_logo_2013.svg/65px-GitHub_logo_2013.svg.png?20220810213409)](https://github.com/NguyenSWE/)
+<a href="https://www.linkedin.com/in/nguyenvht/">
+<img src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.jpg" alt="drawing" width="200"/></a>
+</br>
+<a href="https://github.com/NguyenSWE/">
+<img src="https://allvectorlogo.com/img/2021/12/github-logo-vector.png" alt="drawing" width="200"/></a>
