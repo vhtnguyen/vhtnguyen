@@ -34,7 +34,7 @@
 </a>
 
 <a href="https://github.com/NguyenSWE/AI-Fundamentals-Lab1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=AI-Fundamentals-Lab1&theme=highcontrast"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=AI-Fundamentals-Lab1&theme=highcontrast" />
 </a>
 <a href="https://github.com/NguyenSWE/Money-Heist">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=Money-Heist&theme=blue-green" />
