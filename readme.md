@@ -25,6 +25,7 @@
 <a href="https://github.com/NguyenSWE/BookBook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=BookBook&theme=radical" />
 </a>
+
 <a href="https://github.com/NguyenSWE/IN4-COVID19">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=IN4-COVID19&theme=tokyonight" />
 </a>
@@ -33,18 +34,22 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=Media-player-WPF&theme=rose_pine" />
 </a>
 
-<a href="https://github.com/NguyenSWE/Maze-solver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=Maze-solver&theme=highcontrast" />
-</a>
+<a href="https://github.com/NguyenSWE/AI-Fundamentals-Lab1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=AI-Fundamentals-Lab1&theme=highcontrast" />
+  </a>
+
 <a href="https://github.com/NguyenSWE/Money-Heist">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=Money-Heist&theme=blue-green" />
 </a>
+
 <a href="https://github.com/NguyenSWE/ZuaTiengViet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=ZuaTiengViet&theme=gotham" />
 </a>
+
 <a href="https://github.com/NguyenSWE/SimpleShop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=SimpleShop&theme=github_dark" />
 </a>
+
 <a href="https://github.com/NguyenSWE/Leetcode-300BaiCodeThieuNhi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=Leetcode-300BaiCodeThieuNhi&theme=dark" />
 </a>
