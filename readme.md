@@ -1,9 +1,10 @@
   ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi there 👋;Welcome to my page;Happy coding ♥"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there+👋;Welcome+to+my+page;Happy+coding ♥"></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">**About me**
+
+## <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50"> About me
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -17,9 +18,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> MY PROJECTS
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My projects
 
 <br>
+
 <a href="https://github.com/NguyenSWE/BookBook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=BookBook&theme=radical" />
 </a>
@@ -50,11 +52,11 @@
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2><img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50">  To reach me</h2>
+<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px">  Connect with me</h2>
 
 <h3 align="center">
 <a href="https://www.linkedin.com/in/nguyenvht/">
-<img src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.jpg" alt="drawing" width="120"/></a>
+<img src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.jpg" width="120"/></a>
 <a href="https://github.com/NguyenSWE/">
 <img src="https://allvectorlogo.com/img/2021/12/github-logo-vector.png" alt="drawing" width="120"/></a>
 </h3>
