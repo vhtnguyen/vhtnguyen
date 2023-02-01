@@ -29,12 +29,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=IN4-COVID19&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/NguyenSWE/MediaPlayer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=MediaPlayer&theme=rose_pine" />
+<a href="https://github.com/NguyenSWE/Media-player-WPF">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=Media-player-WPF&theme=rose_pine" />
 </a>
 
-<a href="https://github.com/NguyenSWE/AI-Fundamentals-Lab1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=AI-Fundamentals-Lab1&theme=highcontrast" />
+<a href="https://github.com/NguyenSWE/Maze-solver">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=Maze-solver&theme=highcontrast" />
 </a>
 <a href="https://github.com/NguyenSWE/Money-Heist">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=Money-Heist&theme=blue-green" />
