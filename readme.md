@@ -2,7 +2,7 @@
 
 <!-- <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there+👋;Welcome+to+my+page;Happy+coding ♥"></p> -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=cyan&center=true&vCenter=true&width=940&lines=Hi+there+👋;Welcome+to+my+page;Happy+coding ♥" align="middle"  width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=cyan&center=true&vCenter=true&width=940&lines=Hi+there+👋;Welcome+to+my+page;Happy+coding ♥" align="middle"  width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
