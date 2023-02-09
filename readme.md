@@ -15,7 +15,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> My name is Nguyen Vo (Stephen), a junior BSc student at VNUHCM-University of Science (HCMUS), pursuing a major in Software Engineering. I am enamored with the art of application development, particularly web and desktop applications, and find great joy in constructing humorous tools. Although I am relatively new to the realm of software development, I am diligent in my efforts to refine my code with each passing day and continuously strive towards good things.
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenSWE&layout=compact&custom_title=Programming%20languages%20📚&theme=gotham&langs_count=6&exclude_repo=Money-Heist&hide=css,scss,less,handlebars,Makefile)](https://github.com/NguyenSWE/NguyenSWE)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenSWE&layout=compact&custom_title=Programming%20languages%20📚&theme=gotham&langs_count=6&exclude_repo=Money-Heist&hide=css,scss,less,handlebars,Makefile,TeX)](https://github.com/NguyenSWE/NguyenSWE)
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
