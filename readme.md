@@ -17,9 +17,13 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenSWE&layout=compact&custom_title=Programming%20languages%20📚&theme=gotham&langs_count=6&exclude_repo=Money-Heist&hide=css,scss,less,handlebars,Makefile,TeX&hide_border=true&bg_color=040f0f )](https://github.com/NguyenSWE/NguyenSWE)
+<a href="https://github.com/NguyenSWE/Media-player-WPF">
+  <img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenSWE&layout=compact&custom_title=Programming%20languages%20📚&theme=gotham&langs_count=6&exclude_repo=Money-Heist&hide=css,scss,less,handlebars,Makefile,TeX&hide_border=true&bg_color=040f0f" />
+</a>
 
-![Leetcode Stats](https://stats.justsong.cn/api/leetcode/?username=NguyenVHT&theme=blue-green&bg_color=00000000)
+<a href="https://github.com/NguyenSWE/Media-player-WPF">
+  <img align="center" src="https://stats.justsong.cn/api/leetcode/?username=NguyenVHT&theme=blue-green&bg_color=00000000" />
+</a>
 
 </div>
 
