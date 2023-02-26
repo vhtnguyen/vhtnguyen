@@ -15,17 +15,13 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> My name is Nguyen Vo (Stephen), a junior BSc student at VNUHCM-University of Science (HCMUS), pursuing a major in Software Engineering. I am enamored with the art of application development, particularly web and desktop applications, and find great joy in constructing humorous tools. Although I am relatively new to the realm of software development, I am diligent in my efforts to refine my code with each passing day and continuously strive towards good things.
 <br>
 
-<div align="center">
-
 <a href="https://github.com/NguyenSWE/Media-player-WPF">
-  <img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenSWE&layout=compact&custom_title=Programming%20languages%20📚&theme=gotham&langs_count=6&exclude_repo=Money-Heist&hide=css,scss,less,handlebars,Makefile,TeX&hide_border=true&bg_color=040f0f" />
+  <img align="center" style="height:182px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenSWE&layout=compact&custom_title=Programming%20languages%20📚&theme=gotham&langs_count=6&exclude_repo=Money-Heist&hide=css,scss,less,handlebars,Makefile,TeX&hide_border=true&bg_color=040f0f" />
 </a>
 
 <a href="https://github.com/NguyenSWE/Media-player-WPF">
-  <img align="center" src="https://stats.justsong.cn/api/leetcode/?username=NguyenVHT&theme=blue-green&bg_color=00000000" />
+  <img align="center" style="height:200px"src="https://stats.justsong.cn/api/leetcode/?username=NguyenVHT&theme=blue-green&bg_color=00000000" />
 </a>
-
-</div>
 
 <br>
 
