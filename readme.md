@@ -8,14 +8,19 @@
 
 ## <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">**About me**
 
- <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 200px>
+<p align=left>
+
+ <img align="right" style="display:inline" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 200px>
 
 <br>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> My name is Nguyen Vo (Stephen), a junior BSc student at VNUHCM-University of Science (HCMUS), pursuing a major in Software Engineering. I am enamored with the art of application development, particularly web and desktop applications, and find great joy in constructing humorous tools. Although I am relatively new to the realm of software development, I am diligent in my efforts to refine my code with each passing day and continuously strive towards good things.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" > My name is Nguyen Vo (Stephen), a junior BSc student at VNUHCM-University of Science (HCMUS), pursuing a major in Software Engineering. I am enamored with the art of application development, particularly web and desktop applications, and find great joy in constructing humorous tools. Although I am relatively new to the realm of software development, I am diligent in my efforts to refine my code with each passing day and continuously strive towards good things.
+
+</p>
+
 <br>
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/NguyenSWE/Media-player-WPF">
   <img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenSWE&layout=compact&custom_title=Programming%20languages%20📚&theme=gotham&langs_count=6&exclude_repo=Money-Heist&hide=css,scss,less,handlebars,Makefile,TeX&hide_border=true&bg_color=040f0f" />
@@ -24,7 +29,7 @@
 <a href="https://github.com/NguyenSWE/Media-player-WPF">
   <img align="center" style="height:218px"src="https://stats.justsong.cn/api/leetcode/?username=NguyenVHT&theme=blue-green" />
 </a>
-</div>
+</p>
 
 <br>
 
@@ -34,7 +39,7 @@
 
 <br>
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/NguyenSWE/BookBook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=BookBook&theme=radical" />
@@ -69,7 +74,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=Leetcode-300BaiCodeThieuNhi&theme=dark" />
 </a> -->
 
-</div>
+</p>
 
 <br><br>
 
