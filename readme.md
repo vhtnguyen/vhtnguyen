@@ -42,30 +42,30 @@
 <p align="center">
 
 <a href="https://github.com/NguyenSWE/BookBook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=BookBook&theme=radical" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NguyenSWE&repo=BookBook&theme=radical" />
 </a>
 
 <a href="https://github.com/NguyenSWE/IN4-COVID19">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=IN4-COVID19&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NguyenSWE&repo=IN4-COVID19&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/NguyenSWE/Media-player-WPF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=Media-player-WPF&theme=rose_pine" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NguyenSWE&repo=Media-player-WPF&theme=rose_pine" />
 </a>
 
 <a href="https://github.com/NguyenSWE/AI-Fundamentals-Lab1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=AI-Fundamentals-Lab1&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NguyenSWE&repo=AI-Fundamentals-Lab1&theme=highcontrast" />
   </a>
-
-
-
-<a href="https://github.com/NguyenSWE/ZuaTiengViet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=ZuaTiengViet&theme=gotham" />
-</a>
 
   <a href="https://github.com/NguyenSWE/Money-Heist">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NguyenSWE&repo=Money-Heist&theme=blue-green" />
 </a>
+
+<a href="https://github.com/NguyenSWE/ZuaTiengViet">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NguyenSWE&repo=ZuaTiengViet&theme=gotham" />
+</a>
+
+
 <!-- 
 <a href="https://github.com/NguyenSWE/SimpleShop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=SimpleShop&theme=github_dark" />
