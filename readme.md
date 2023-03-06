@@ -23,7 +23,7 @@
 <p align="center">
 
 <a href="https://github.com/NguyenSWE">
-  <img align="center" style="height:155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenSWE&layout=compact&custom_title=Programming%20languages%20📚&theme=gotham&langs_count=6&exclude_repo=Money-Heist&hide=css,scss,less,handlebars,Makefile,TeX&hide_border=true&bg_color=040f0f" />
+  <img align="center" style="height:155px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NguyenSWE&layout=compact&custom_title=Programming%20languages%20📚&theme=gotham&langs_count=6&exclude_repo=Money-Heist&hide=css,scss,less,handlebars,Makefile,TeX&hide_border=true&bg_color=040f0f" />
 </a>
 
 <a href="https://github.com/NguyenSWE">
