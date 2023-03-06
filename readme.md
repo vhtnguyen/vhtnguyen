@@ -64,7 +64,7 @@
 </a>
 
   <a href="https://github.com/NguyenSWE/Money-Heist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenSWE&repo=Money-Heist&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NguyenSWE&repo=Money-Heist&theme=blue-green" />
 </a>
 <!-- 
 <a href="https://github.com/NguyenSWE/SimpleShop">
