@@ -27,7 +27,7 @@
 </a>
 
 <a href="https://github.com/vhtnguyen">
-  <img align="center" style="height:170px"src="https://stats.justsong.cn/api/leetcode/?username=NguyenVHT&theme=blue-green" />
+  <img align="center" style="height:170px"src="https://stats.justsong.cn/api/leetcode/?username=vhtnguyen&theme=blue-green" />
 </a>
 </p>
 
