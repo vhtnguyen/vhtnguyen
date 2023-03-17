@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" > My name is Nguyen Vo (Stephen), a junior BSc student at VNUHCM-University of Science (HCMUS), pursuing a major in Software Engineering. I am enamored with the art of application development, particularly web and desktop applications, and find great joy in constructing humorous tools. Although I am relatively new to the realm of software development, I am diligent in my efforts to refine my code with each passing day and continuously strive towards good things.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" > My name is Nguyen Vo (Stephen), a junior BSc student at VNUHCM-University of Science (HCMUS), pursuing a major in Software Engineering. I am enamored with the art of software engineering, particularly data engineering, and find great joy in developing humorous tools. Although I am relatively new to the realm of software development, I am diligent in my efforts to refine my code with each passing day and continuously strive towards good things.
 
 </p>
 
