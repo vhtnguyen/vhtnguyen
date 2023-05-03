@@ -10,7 +10,8 @@
 
 <p align=left>
 
- <img align="right" style="display:inline" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 200px>
+<!--  <img align="right" style="display:inline" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 200px> -->
+<!--   <img align="right" style="display:inline" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" width = 250px> -->
 
 <br>
 
