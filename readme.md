@@ -54,17 +54,18 @@
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vhtnguyen&repo=Media-player-WPF&theme=rose_pine" />
 </a>
 
+  <a href="https://github.com/vhtnguyen/Daily-Cryptocurrency-Prices">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vhtnguyen&repo=Daily-Cryptocurrency-Prices&theme=gotham" />
+</a>
+  
+  <a href="https://github.com/vhtnguyen/Money-Heist">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vhtnguyen&repo=Money-Heist&theme=blue-green" />
+</a>
+  
 <a href="https://github.com/vhtnguyen/Maze-solver">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vhtnguyen&repo=Maze-solver&theme=highcontrast" />
   </a>
 
-  <a href="https://github.com/vhtnguyen/Money-Heist">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vhtnguyen&repo=Money-Heist&theme=blue-green" />
-</a>
-
-<a href="https://github.com/vhtnguyen/ZuaTiengViet">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vhtnguyen&repo=ZuaTiengViet&theme=gotham" />
-</a>
 
 <!-- 
 <a href="https://github.com/vhtnguyen/SimpleShop">
