@@ -62,7 +62,7 @@
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vhtnguyen&repo=Money-Heist&theme=blue-green" />
 </a>
   
-<a href="[https://github.com/vhtnguyen/Maze-solver](https://github.com/vhtnguyen/Vietnam-Air-quality-EDA)">
+<a href="https://github.com/vhtnguyen/Vietnam-Air-quality-EDA">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vhtnguyen&repo=Vietnam-Air-quality-EDA&theme=highcontrast" />
   </a>
 
