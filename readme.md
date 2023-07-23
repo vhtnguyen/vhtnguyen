@@ -53,11 +53,6 @@
 <a href="https://github.com/vhtnguyen/BookBook">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vhtnguyen&repo=BookBook&theme=github_dark" />
 </a>
-
-<a href="https://github.com/vhtnguyen/IN4-COVID19">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vhtnguyen&repo=IN4-COVID19&theme=dark" />
-</a>
-
 <a href="https://github.com/vhtnguyen/Media-player-WPF">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vhtnguyen&repo=Media-player-WPF&theme=rose_pine" />
 </a>
@@ -65,15 +60,17 @@
   <a href="https://github.com/vhtnguyen/Daily-Cryptocurrency-Prices">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vhtnguyen&repo=Daily-Cryptocurrency-Prices&theme=gotham" />
 </a>
-  
+<a href="https://github.com/vhtnguyen/Vietnam-Air-quality-EDA">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vhtnguyen&repo=Vietnam-Air-quality-EDA&theme=highcontrast" />
+  </a>
+  <a href="https://github.com/vhtnguyen/IN4-COVID19">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vhtnguyen&repo=IN4-COVID19&theme=dark" />
+</a>
+
   <a href="https://github.com/vhtnguyen/Money-Heist">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vhtnguyen&repo=Money-Heist&theme=blue-green" />
 </a>
   
-<a href="https://github.com/vhtnguyen/Vietnam-Air-quality-EDA">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vhtnguyen&repo=Vietnam-Air-quality-EDA&theme=highcontrast" />
-  </a>
-
 </p>
 
 <br><br>
