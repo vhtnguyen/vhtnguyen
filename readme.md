@@ -80,7 +80,7 @@
 <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px">  Connect with me</h2>
 
 <h3 align="center">
-<a href="https://www.linkedin.com/in/nguyenvht/">
+<a href="https://www.linkedin.com/in/vhtnguyen/">
 <img src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.jpg" width="120"/></a>
 <a href="https://github.com/vhtnguyen/">
 <img src="https://allvectorlogo.com/img/2021/12/github-logo-vector.png" alt="drawing" width="120"/></a>
