@@ -42,7 +42,7 @@
 
 <p align="center">
 
-<a href="https://github.com/vhtnguyen/RestHotel">
+<a href="https://github.com/vhtnguyen/aws-terraform-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vhtnguyen&repo=aws-terraform-template&theme=radical" />
 </a>
 
