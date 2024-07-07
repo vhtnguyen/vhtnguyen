@@ -15,7 +15,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" > My name is Nguyen Vo (Stephen), a junior BSc student at VNUHCM-University of Science (HCMUS), pursuing the Software Engineering major. I am enamored with the art of software engineering and find great joy in developing humorous tools.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" > My name is Nguyen, a last year student at VNUHCM-University of Science (HCMUS), pursuing the Software Engineering major.
 
 </p>
 
@@ -36,17 +36,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My course projects
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My Coding
 
 <br>
 
 <p align="center">
 
 <a href="https://github.com/vhtnguyen/RestHotel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vhtnguyen&repo=RestHotel&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vhtnguyen&repo=aws-terraform-template&theme=radical" />
 </a>
 
-<a href="https://github.com/vhtnguyen/Kafka_Youtube-watcher">
+<!-- <a href="https://github.com/vhtnguyen/Kafka_Youtube-watcher">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vhtnguyen&repo=Kafka_Youtube-watcher&theme=tokyonight" />
 </a>
 
@@ -70,7 +70,7 @@
   <a href="https://github.com/vhtnguyen/Money-Heist">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vhtnguyen&repo=Money-Heist&theme=blue-green" />
 </a>
-  
+   -->
 </p>
 
 <br><br>
