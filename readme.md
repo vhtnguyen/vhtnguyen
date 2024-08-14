@@ -27,10 +27,10 @@
   <img align="center" style="height:155px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vhtnguyen&layout=compact&custom_title=Programming%20languages%20📚&theme=gotham&langs_count=6&exclude_repo=Money-Heist&hide=css,scss,less,handlebars,Makefile,TeX&hide_border=true&bg_color=040f0f" />
 </a>
 
-<a href="https://github.com/vhtnguyen">
+<!--<a href="https://github.com/vhtnguyen">
   <img align="center" style="height:170px"src="https://stats.justsong.cn/api/leetcode/?username=vhtnguyen&theme=blue-green" />
 </a>
-</p>
+</p> -->
 
 <br>
 
@@ -79,11 +79,12 @@
 
 <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px">  Connect with me</h2>
 
-<h3 align="center">
+<!--<h3 align="center">
 <a href="https://www.linkedin.com/in/vhtnguyen/">
-<img src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.jpg" width="120"/></a>
+<img src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.jpg" width="120"/></a> 
 <a href="https://github.com/vhtnguyen/">
 <img src="https://allvectorlogo.com/img/2021/12/github-logo-vector.png" alt="drawing" width="120"/></a>
 </h3>
+-->
 <br>
 <p align="center"><img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50"> <b>THANKS FOR VISITTING </b><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"width="40" /></p>
