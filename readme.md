@@ -35,7 +35,7 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
+<!--
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Projects
 
 <br>
@@ -46,7 +46,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vhtnguyen&repo=aws-terraform-template&theme=radical" />
 </a>
 
-<!-- <a href="https://github.com/vhtnguyen/Kafka_Youtube-watcher">
+ <a href="https://github.com/vhtnguyen/Kafka_Youtube-watcher">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vhtnguyen&repo=Kafka_Youtube-watcher&theme=tokyonight" />
 </a>
 
@@ -70,8 +70,9 @@
   <a href="https://github.com/vhtnguyen/Money-Heist">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vhtnguyen&repo=Money-Heist&theme=blue-green" />
 </a>
-   -->
+   
 </p>
+-->
 
 <br><br>
 
